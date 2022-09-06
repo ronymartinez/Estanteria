@@ -1,0 +1,24 @@
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.csproj.AssemblyReference.cache
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.AssemblyInfoInputs.cache
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.AssemblyInfo.cs
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.csproj.CoreCompileInputs.cache
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.exe
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.deps.json
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.runtimeconfig.json
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.runtimeconfig.dev.json
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\bin\Debug\net5.0\Clase_04.pdb
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\refint\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.pdb
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\Clase_04.genruntimeconfig.cache
+C:\Users\ronym\OneDrive\Documentos\NTT\Clases\Clase_04\obj\Debug\net5.0\ref\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.csproj.AssemblyReference.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.AssemblyInfoInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.AssemblyInfo.cs
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.csproj.CoreCompileInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\refint\Clase_04.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\obj\Debug\net5.0\Clase_04.pdb

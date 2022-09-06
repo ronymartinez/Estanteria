@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Ej_Estanteria/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ej_Estanteria.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ej_Estanteria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej_Estanteria/1.0.0": {
+      "type": "project",
+      "path": "../Ej_Estanteria/Ej_Estanteria.csproj",
+      "msbuildProject": "../Ej_Estanteria/Ej_Estanteria.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Ej_Estanteria >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ronym\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ronym\\OneDrive\\Documentos\\UTN\\Lab 2\\Clases\\Clase_04_Sobrecarga\\Ej_EstanteriaConsola\\Ej_EstanteriaConsola.csproj",
+      "projectName": "Ej_EstanteriaConsola",
+      "projectPath": "C:\\Users\\ronym\\OneDrive\\Documentos\\UTN\\Lab 2\\Clases\\Clase_04_Sobrecarga\\Ej_EstanteriaConsola\\Ej_EstanteriaConsola.csproj",
+      "packagesPath": "C:\\Users\\ronym\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ronym\\OneDrive\\Documentos\\UTN\\Lab 2\\Clases\\Clase_04_Sobrecarga\\Ej_EstanteriaConsola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ronym\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\ronym\\OneDrive\\Documentos\\UTN\\Lab 2\\Clases\\Clase_04_Sobrecarga\\Ej_Estanteria\\Ej_Estanteria.csproj": {
+              "projectPath": "C:\\Users\\ronym\\OneDrive\\Documentos\\UTN\\Lab 2\\Clases\\Clase_04_Sobrecarga\\Ej_Estanteria\\Ej_Estanteria.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

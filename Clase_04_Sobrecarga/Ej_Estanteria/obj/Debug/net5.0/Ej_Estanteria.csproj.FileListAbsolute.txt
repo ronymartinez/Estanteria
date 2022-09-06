@@ -1,0 +1,12 @@
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\bin\Debug\net5.0\Ej_Estanteria.deps.json
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\bin\Debug\net5.0\Ej_Estanteria.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\bin\Debug\net5.0\Ej_Estanteria.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.csproj.AssemblyReference.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.AssemblyInfoInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.AssemblyInfo.cs
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.csproj.CoreCompileInputs.cache
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\refint\Ej_Estanteria.dll
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\Ej_Estanteria.pdb
+C:\Users\ronym\OneDrive\Documentos\UTN\Lab 2\Clases\Clase_04_Sobrecarga\Ej_Estanteria\obj\Debug\net5.0\ref\Ej_Estanteria.dll
